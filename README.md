@@ -1,6 +1,6 @@
 # CrowdFlow: Revolutionizing Crowd Management for MICE Events
 
-![CrowdFlow Banner](https://cdn.mathpix.com/cropped/2025_04_01_7d92691060047412bc8fg-01.jpg?height=1315&width=3494&top_left_y=911&top_left_x=1373)
+![CrowdFlow Banner](https://cdn.mathpix.com/cropped/2025_04_01_7d92691060047412bc8fg-01.jpg?height=1400&width=3600&top_left_y=800&top_left_x=350)
 
 ---
 
